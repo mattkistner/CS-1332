@@ -3,8 +3,6 @@
  *
  * @author MATTHEW KISTNER
  * @version 1.0
- * @userid mkistner6
- * @GTID 903677868
  *
  * Collaborators: LIST ALL COLLABORATORS YOU WORKED WITH HERE
  *
